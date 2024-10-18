@@ -1,1 +1,0 @@
-student = ["karan",95.4,]
