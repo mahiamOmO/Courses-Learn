@@ -1,0 +1,5 @@
+print("shradha is my name")
+print("shradha is my name","My is age is 23")
+print(23)
+print(23+34)
+print(32-23)
