@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table Rowspan Example</title>
+</head>
+<body>
+    <h1 style="color: green;">GeeksforGeeks</h1>
+    <h2>HTML Table Rowspan</h2>
+
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Name</th>
+            <th>Class</th>
+            <th rowspan="2">MVM School</th>
+        </tr>
+        <tr>
+            <td>Radha</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Ankur</td>
+            <td>11</td>
+        </tr>
+    </table>
+
+    <h3>Exercise:</h3>
+
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Product</th>
+            <th>Flavors</th>
+        </tr>
+        <tr>
+            <td rowspan="3">Milk</td> <!-- Correct rowspan for "Milk" -->
+            <td>Almond</td>
+        </tr>
+        <tr>
+            <td>Mango</td>
+        </tr>
+        <tr>
+            <td>Chocolate</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;">These are exclusive flavors</td>
+        </tr>
+    </table>
+
+</body>
+</html>
