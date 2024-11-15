@@ -6,14 +6,14 @@
 I'm a frontend developer...
 
 
-#### Courses Learn
+## Courses Learn
 
 whatever courses iam currently learning from youtube and from other sites all of these i'm adding on this repository
 
 
 
 
-#### Technologies
+## Technologies
 
 - Python
 
