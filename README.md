@@ -39,6 +39,11 @@ whatever courses iam currently learning from youtube and from other sites all of
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mahiamomo?mx=2)
 
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mahiamomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahiamomo" /></a></p><br><br>
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
