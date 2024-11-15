@@ -1,0 +1,12 @@
+@mixin theme-switcher($theme) {
+    @if $theme == "light" {
+        background-color: #f5f5f5;
+        @else {
+            background-color: #171c2a;
+        }
+    }
+
+    .wrapper {
+        @include theme-swtcher(dark);
+    }
+}

@@ -1,0 +1,11 @@
+@function sun($numbers...) {
+    $sum: 0;
+    @each $number in $numbers {
+        $sum: $sum + $number;
+    }
+    @return $sum;
+}
+
+.micro {
+    width: sun(50px, 30px, 100px);
+}

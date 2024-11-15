@@ -1,0 +1,7 @@
+$primary: #11141f;
+
+.box {
+    background: lighten($primary, 25%);
+    color: darken($primary, 30%);
+}
+
