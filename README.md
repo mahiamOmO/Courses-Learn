@@ -25,6 +25,8 @@ whatever courses iam currently learning from youtube and from other sites all of
 
 - SAAS
 
+- Javascript
+
 
 ## Badges
 
@@ -33,6 +35,8 @@ whatever courses iam currently learning from youtube and from other sites all of
 [![HTML5](https://img.shields.io/badge/HTML5-red.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-1.32-pink.svg)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahiamomo12/)
