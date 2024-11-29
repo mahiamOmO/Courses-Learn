@@ -1,0 +1,8 @@
+node -v 
+
+npm init -y
+
+npm i -D tailwindcss
+
+
+npm run build
