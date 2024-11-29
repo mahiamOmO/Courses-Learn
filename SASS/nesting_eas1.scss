@@ -1,0 +1,17 @@
+a {
+    &:link {
+        color:red;
+    }
+}
+&:link {
+    color: red;
+}
+&:visited {
+    color: green;
+}
+&:hover {
+    color: hotpink;
+}
+&:active {
+    color: blue;
+}
