@@ -27,6 +27,8 @@ whatever courses iam currently learning from youtube and from other sites all of
 
 - Javascript
 
+- TailwindCSS
+
 
 ## Badges
 
