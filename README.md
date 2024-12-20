@@ -11,8 +11,8 @@ whatever courses iam currently learning from youtube and from other sites all of
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,scss,c,cpp,python,django)](https://skillicons.dev)
-![Assembly](https://img.shields.io/badge/Assembly-Language-blue.svg)
 
+![Assembly](https://img.shields.io/badge/Assembly-Language-blue.svg)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahiamomo12/)
