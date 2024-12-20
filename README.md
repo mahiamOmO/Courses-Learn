@@ -14,21 +14,7 @@ whatever courses iam currently learning from youtube and from other sites all of
 
 
 ## Technologies
-
-- Python
-
-- Django
-
-- HTML
-
-- CSS
-
-- SAAS
-
-- Javascript
-
-- TailwindCSS
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,scss,c,cpp,python,django)](https://skillicons.dev)
 
 ## Badges
 
