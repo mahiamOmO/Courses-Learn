@@ -1,4 +1,3 @@
-## Badges 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=mahiamOmO&color=blue&style=flat-square)
 
 # Hi, I'm  Mahia Momo! 👋
