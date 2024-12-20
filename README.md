@@ -1,6 +1,6 @@
 ![GitHub profile views](https://komarev.com/ghpvc/?username=mahiamOmO&color=blue&style=flat-square)
 
-# Hi, I'm  Mahia Momo! 👋
+# Hi, I'm  Mahia Momo!👋
 
 ## 🚀 About Me
 I'm a frontend developer...
