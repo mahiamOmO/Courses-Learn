@@ -23,7 +23,7 @@ Connect with me on:
 ## 📂 Projects
 Some of my favorite projects I've worked on:
 - [Portfolio Website](https://github.com/mahiamOmO/portfolio) 🖥️
-- [Weather App](https://github.com/mahiamOmO/weather-app) 🌤️  
+
 
 ## 📝 License
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
