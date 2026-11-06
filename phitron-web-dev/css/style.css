@@ -1,0 +1,16 @@
+.title{
+    color: red;
+    font-size: 44px;
+    font-style: italic;
+}
+
+.title2{
+    color: blue;
+    font-size: 60px;
+}
+
+#description{
+    color: green;
+    font-size: 33px;
+    
+}
