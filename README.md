@@ -1,4 +1,4 @@
-# Courses & Learning Journey
+<h1 align="center">Courses &amp; Learning Journey</h1>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mahiamOmO-181717?style=for-the-badge&logo=github)](https://github.com/mahiamOmO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahiamomo12-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahiamomo12/)
 [![Email](https://img.shields.io/badge/Email-mahiamomo12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiamomo12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahiamomo.netlify.app-0A7EA4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahiamomo.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahiamomo--portfolio.vercel.app-0A7EA4?style=for-the-badge&logo=vercel&logoColor=white)](https://mahiamomo-portfolio.vercel.app/)
 [![X](https://img.shields.io/badge/X-@mahiamomo-000000?style=for-the-badge&logo=x)](https://x.com/mahiamomo)
 
 </div>
@@ -177,7 +177,7 @@ I am continuing to improve my skills in:
 - **LinkedIn:** [mahiamomo12](https://www.linkedin.com/in/mahiamomo12/)
 - **Email:** [mahiamomo12@gmail.com](mailto:mahiamomo12@gmail.com)
 - **X:** [@mahiamomo](https://x.com/mahiamomo)
-- **Portfolio:** [mahiamomo.netlify.app](https://mahiamomo.netlify.app)
+- **Portfolio:** [mahiamomo-portfolio.vercel.app](https://mahiamomo-portfolio.vercel.app/)
 
 If you find something useful here, feel free to explore, learn, and build on it.
 
