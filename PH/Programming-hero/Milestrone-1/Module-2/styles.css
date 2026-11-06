@@ -1,0 +1,23 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+
+.second{
+    display: none;
+    visibility: hidden;
+}
+
+.consectetur{
+    border: 2px solid purple;
+    height: 200px;
+    display: block;
+}
